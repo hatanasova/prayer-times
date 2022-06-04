@@ -1,0 +1,688 @@
+[
+    {
+        "countryId": 1,
+        "id": 1,
+        "latitude": "42.672421",
+        "longitude": "21.164539",
+        "name": "Prishtinë"
+    },
+    {
+        "countryId": 2,
+        "id": 2,
+        "latitude": "41.33165",
+        "longitude": "19.8318",
+        "name": "Tiranë"
+    },
+    {
+        "countryId": 3,
+        "id": 3,
+        "latitude": "42.0",
+        "longitude": "21.4333333",
+        "name": "Shkup"
+    },
+    {
+        "countryId": 1,
+        "id": 4,
+        "latitude": "42.827759",
+        "longitude": "20.96018",
+        "name": "Vushtrri"
+    },
+    {
+        "countryId": 1,
+        "id": 5,
+        "latitude": "42.886909",
+        "longitude": "20.874809",
+        "name": "Mitrovicë"
+    },
+    {
+        "countryId": 1,
+        "id": 6,
+        "latitude": "42.4615633",
+        "longitude": "20.4086121",
+        "name": "Gjakovë"
+    },
+    {
+        "countryId": 1,
+        "id": 7,
+        "latitude": "42.4604343",
+        "longitude": "21.469323",
+        "name": "Gjilan"
+    },
+    {
+        "countryId": 1,
+        "id": 8,
+        "latitude": "42.4073909",
+        "longitude": "20.660521",
+        "name": "Rahovec"
+    },
+    {
+        "countryId": 1,
+        "id": 9,
+        "latitude": "42.629326",
+        "longitude": "21.101316",
+        "name": "Fushë Kosovë"
+    },
+    {
+        "countryId": 1,
+        "id": 10,
+        "latitude": "42.659809",
+        "longitude": "20.307119",
+        "name": "Pejë"
+    },
+    {
+        "countryId": 1,
+        "id": 11,
+        "latitude": "42.9066386",
+        "longitude": "21.1950767",
+        "name": "Besianë"
+    },
+    {
+        "countryId": 1,
+        "id": 12,
+        "latitude": "42.2137249",
+        "longitude": "20.746103",
+        "name": "Prizren"
+    },
+    {
+        "countryId": 1,
+        "id": 13,
+        "latitude": "42.37603",
+        "longitude": "21.1686799",
+        "name": "Ferizaj"
+    },
+    {
+        "countryId": 1,
+        "id": 14,
+        "latitude": "42.7814214",
+        "longitude": "20.4887727",
+        "name": "Istog"
+    },
+    {
+        "countryId": 1,
+        "id": 15,
+        "latitude": "42.742731",
+        "longitude": "20.784547",
+        "name": "Skenderaj"
+    },
+    {
+        "countryId": 1,
+        "id": 16,
+        "latitude": "42.5378169",
+        "longitude": "20.292873",
+        "name": "Decan"
+    },
+    {
+        "countryId": 1,
+        "id": 17,
+        "latitude": "42.4769376",
+        "longitude": "20.280243",
+        "name": "Junik"
+    },
+    {
+        "countryId": 1,
+        "id": 18,
+        "latitude": "42.4504892",
+        "longitude": "21.5080765",
+        "name": "Malishevë"
+    },
+    {
+        "countryId": 1,
+        "id": 19,
+        "latitude": "42.3586309",
+        "longitude": "20.8254896",
+        "name": "Therandë"
+    },
+    {
+        "countryId": 1,
+        "id": 20,
+        "latitude": "42.4384305",
+        "longitude": "21.0370989",
+        "name": "Shtime"
+    },
+    {
+        "countryId": 1,
+        "id": 21,
+        "latitude": "42.535419",
+        "longitude": "21.114071",
+        "name": "Lipjan"
+    },
+    {
+        "countryId": 1,
+        "id": 22,
+        "latitude": "42.623016",
+        "longitude": "20.893125",
+        "name": "Gllogoc"
+    },
+    {
+        "countryId": 1,
+        "id": 23,
+        "latitude": "42.31286205",
+        "longitude": "21.65267944",
+        "name": "Preshevë"
+    },
+    {
+        "countryId": 1,
+        "id": 24,
+        "latitude": "42.4608227",
+        "longitude": "21.7644471",
+        "name": "Bujanovc"
+    },
+    {
+        "countryId": 1,
+        "id": 25,
+        "latitude": "42.8390967",
+        "longitude": "21.5885649",
+        "name": "Medvegjë"
+    },
+    {
+        "countryId": 3,
+        "id": 26,
+        "latitude": "42.00864",
+        "longitude": "20.974159",
+        "name": "Tetovë"
+    },
+    {
+        "countryId": 3,
+        "id": 27,
+        "latitude": "42.1358333",
+        "longitude": "21.7180556",
+        "name": "Kumanovë"
+    },
+    {
+        "countryId": 3,
+        "id": 28,
+        "latitude": "41.800911",
+        "longitude": "20.914169",
+        "name": "Gostivar"
+    },
+    {
+        "countryId": 3,
+        "id": 29,
+        "latitude": "41.18",
+        "longitude": "20.68",
+        "name": "Strugë"
+    },
+    {
+        "countryId": 1,
+        "id": 30,
+        "latitude": "42.620875",
+        "longitude": "20.5752",
+        "name": "Klinë"
+    },
+    {
+        "countryId": 3,
+        "id": 31,
+        "latitude": "41.35173",
+        "longitude": "21.56214",
+        "name": "Prilep"
+    },
+    {
+        "countryId": 3,
+        "id": 32,
+        "latitude": "41.71385",
+        "longitude": "21.77041",
+        "name": "Veles"
+    },
+    {
+        "countryId": 3,
+        "id": 33,
+        "latitude": "41.91667",
+        "longitude": "22.41667",
+        "name": "Koçan"
+    },
+    {
+        "countryId": 3,
+        "id": 34,
+        "latitude": "41.44144",
+        "longitude": "22.64183",
+        "name": "Strumicë"
+    },
+    {
+        "countryId": 3,
+        "id": 35,
+        "latitude": "41.31694",
+        "longitude": "22.56111",
+        "name": "Valandovë"
+    },
+    {
+        "countryId": 3,
+        "id": 36,
+        "latitude": "41.96462",
+        "longitude": "22.76488",
+        "name": "Delçevë"
+    },
+    {
+        "countryId": 3,
+        "id": 37,
+        "latitude": "41.0889",
+        "longitude": "21.0122",
+        "name": "Resnjë"
+    },
+    {
+        "countryId": 3,
+        "id": 38,
+        "latitude": "41.03194",
+        "longitude": "21.33472",
+        "name": "Manastir"
+    },
+    {
+        "countryId": 3,
+        "id": 39,
+        "latitude": "41.51",
+        "longitude": "20.97",
+        "name": "Kërçovë"
+    },
+    {
+        "countryId": 3,
+        "id": 40,
+        "latitude": "41.12162",
+        "longitude": "20.81944",
+        "name": "Ohër "
+    },
+    {
+        "countryId": 3,
+        "id": 41,
+        "latitude": "41.51667",
+        "longitude": "20.53333",
+        "name": "Dibër"
+    },
+    {
+        "countryId": 3,
+        "id": 42,
+        "latitude": "41.74565",
+        "longitude": "22.19697",
+        "name": "Shtip"
+    },
+    {
+        "countryId": 4,
+        "id": 43,
+        "latitude": "41.92972",
+        "longitude": "19.22429",
+        "name": "Ulqin"
+    },
+    {
+        "countryId": 1,
+        "id": 44,
+        "latitude": "42.228291",
+        "longitude": "21.271971",
+        "name": "Kaqanik"
+    },
+    {
+        "countryId": 2,
+        "id": 45,
+        "latitude": "41.327122",
+        "longitude": "19.454281",
+        "name": "Durrës"
+    },
+    {
+        "countryId": 2,
+        "id": 46,
+        "latitude": "42.074299",
+        "longitude": "19.52766",
+        "name": "Shkodër"
+    },
+    {
+        "countryId": 2,
+        "id": 47,
+        "latitude": "40.471882",
+        "longitude": "19.490219",
+        "name": "Vlorë"
+    },
+    {
+        "countryId": 2,
+        "id": 48,
+        "latitude": "40.933333",
+        "longitude": "19.7",
+        "name": "Lushnje"
+    },
+    {
+        "countryId": 2,
+        "id": 49,
+        "latitude": "40.708638",
+        "longitude": "19.943731",
+        "name": "Berat"
+    },
+    {
+        "countryId": 2,
+        "id": 50,
+        "latitude": "41.11684",
+        "longitude": "20.092621",
+        "name": "Elbasan"
+    },
+    {
+        "countryId": 2,
+        "id": 51,
+        "latitude": "42.066667",
+        "longitude": "20.416667",
+        "name": "Kukës"
+    },
+    {
+        "countryId": 2,
+        "id": 52,
+        "latitude": "41.683056",
+        "longitude": "20.428889",
+        "name": "Peshkopi"
+    },
+    {
+        "countryId": 2,
+        "id": 53,
+        "latitude": "41.183333",
+        "longitude": "20.316667",
+        "name": "Librazhd"
+    },
+    {
+        "countryId": 2,
+        "id": 54,
+        "latitude": "40.614078",
+        "longitude": "20.777807",
+        "name": "Korçë"
+    },
+    {
+        "countryId": 5,
+        "id": 55,
+        "latitude": "47.3769",
+        "longitude": "8.5417",
+        "name": "Zürich"
+    },
+    {
+        "countryId": 5,
+        "id": 56,
+        "latitude": "47.1662",
+        "longitude": "8.5155",
+        "name": "Zug"
+    },
+    {
+        "countryId": 5,
+        "id": 57,
+        "latitude": "47.3904",
+        "longitude": "8.0457",
+        "name": "Aarau"
+    },
+    {
+        "countryId": 5,
+        "id": 58,
+        "latitude": "47.3349",
+        "longitude": "9.4066",
+        "name": "Appenzell"
+    },
+    {
+        "countryId": 5,
+        "id": 59,
+        "latitude": "47.4729",
+        "longitude": "8.3081",
+        "name": "Baden"
+    },
+    {
+        "countryId": 5,
+        "id": 60,
+        "latitude": "47.5596",
+        "longitude": "7.5886",
+        "name": "Basel"
+    },
+    {
+        "countryId": 5,
+        "id": 61,
+        "latitude": "46.9480",
+        "longitude": "7.4474",
+        "name": "Bern"
+    },
+    {
+        "countryId": 5,
+        "id": 62,
+        "latitude": "47.1368",
+        "longitude": "7.2468",
+        "name": "Biel-Bienne"
+    },
+    {
+        "countryId": 5,
+        "id": 63,
+        "latitude": "46.8508",
+        "longitude": "9.5320",
+        "name": "Chur"
+    },
+    {
+        "countryId": 5,
+        "id": 64,
+        "latitude": "46.8027",
+        "longitude": "9.8360",
+        "name": "Davos"
+    },
+    {
+        "countryId": 5,
+        "id": 65,
+        "latitude": "47.3658",
+        "longitude": "7.3452",
+        "name": "Delemont"
+    },
+    {
+        "countryId": 5,
+        "id": 66,
+        "latitude": "47.6895",
+        "longitude": "8.7494",
+        "name": "Diessenhofen"
+    },
+    {
+        "countryId": 5,
+        "id": 67,
+        "latitude": "47.5536",
+        "longitude": "8.8988",
+        "name": "Frauenfeld"
+    },
+    {
+        "countryId": 5,
+        "id": 68,
+        "latitude": "46.8065",
+        "longitude": "7.1620",
+        "name": "Fribourg"
+    },
+    {
+        "countryId": 5,
+        "id": 69,
+        "latitude": "46.2044",
+        "longitude": "6.1432",
+        "name": "Geneve"
+    },
+    {
+        "countryId": 5,
+        "id": 70,
+        "latitude": "47.0411",
+        "longitude": "9.0679",
+        "name": "Glarus"
+    },
+    {
+        "countryId": 5,
+        "id": 71,
+        "latitude": "46.6863",
+        "longitude": "7.8632",
+        "name": "Interlaken"
+    },
+    {
+        "countryId": 5,
+        "id": 72,
+        "latitude": "47.6447",
+        "longitude": "9.1708",
+        "name": "Kreuzlingen"
+    },
+    {
+        "countryId": 5,
+        "id": 73,
+        "latitude": "47.2121",
+        "longitude": "7.7906",
+        "name": "Langenthal"
+    },
+    {
+        "countryId": 5,
+        "id": 74,
+        "latitude": "46.5197",
+        "longitude": "6.6323",
+        "name": "Lausanne"
+    },
+    {
+        "countryId": 5,
+        "id": 75,
+        "latitude": "47.3904",
+        "longitude": "8.1722",
+        "name": "Lenzburg"
+    },
+    {
+        "countryId": 5,
+        "id": 76,
+        "latitude": "47.4866",
+        "longitude": "7.7334",
+        "name": "Liestal"
+    },
+    {
+        "countryId": 5,
+        "id": 77,
+        "latitude": "46.0037",
+        "longitude": "8.9511",
+        "name": "Lugano"
+    },
+    {
+        "countryId": 5,
+        "id": 78,
+        "latitude": "47.0502",
+        "longitude": "8.3093",
+        "name": "Luzern"
+    },
+    {
+        "countryId": 5,
+        "id": 79,
+        "latitude": "46.1050",
+        "longitude": "7.0755",
+        "name": "Martigny"
+    },
+    {
+        "countryId": 5,
+        "id": 80,
+        "latitude": "46.9900",
+        "longitude": "6.9293",
+        "name": "Neuchatel"
+    },
+    {
+        "countryId": 5,
+        "id": 81,
+        "latitude": "46.3833",
+        "longitude": "6.2348",
+        "name": "Nyon"
+    },
+    {
+        "countryId": 5,
+        "id": 82,
+        "latitude": "47.3500",
+        "longitude": "7.9037",
+        "name": "Olten"
+    },
+    {
+        "countryId": 5,
+        "id": 83,
+        "latitude": "47.2266",
+        "longitude": "8.8184",
+        "name": "Rapperswil"
+    },
+    {
+        "countryId": 5,
+        "id": 84,
+        "latitude": "47.4907",
+        "longitude": "7.5894",
+        "name": "Reinach"
+    },
+    {
+        "countryId": 5,
+        "id": 85,
+        "latitude": "47.5657",
+        "longitude": "9.3772",
+        "name": "Romanshorn"
+    },
+    {
+        "countryId": 5,
+        "id": 86,
+        "latitude": "47.4789",
+        "longitude": "9.4917",
+        "name": "Rorschach"
+    },
+    {
+        "countryId": 5,
+        "id": 87,
+        "latitude": "46.8959",
+        "longitude": "8.2457",
+        "name": "Sarnen"
+    },
+    {
+        "countryId": 5,
+        "id": 88,
+        "latitude": "47.6959",
+        "longitude": "8.6380",
+        "name": "Schaffhausen"
+    },
+    {
+        "countryId": 5,
+        "id": 89,
+        "latitude": "47.0207",
+        "longitude": "8.6530",
+        "name": "Schwyz"
+    },
+    {
+        "countryId": 5,
+        "id": 90,
+        "latitude": "46.2331",
+        "longitude": "7.3606",
+        "name": "Sion"
+    },
+    {
+        "countryId": 5,
+        "id": 91,
+        "latitude": "47.2088",
+        "longitude": "7.5323",
+        "name": "Solothurn"
+    },
+    {
+        "countryId": 5,
+        "id": 92,
+        "latitude": "47.4245",
+        "longitude": "9.3767",
+        "name": "St.Gallen"
+    },
+    {
+        "countryId": 5,
+        "id": 93,
+        "latitude": "46.4908",
+        "longitude": "9.8355",
+        "name": "St.Moritz"
+    },
+    {
+        "countryId": 5,
+        "id": 94,
+        "latitude": "46.7580",
+        "longitude": "7.6280",
+        "name": "Thun"
+    },
+    {
+        "countryId": 5,
+        "id": 95,
+        "latitude": "46.2947",
+        "longitude": "7.8821",
+        "name": "Visp"
+    },
+    {
+        "countryId": 5,
+        "id": 96,
+        "latitude": "47.3271",
+        "longitude": "8.8014",
+        "name": "Wetzikon"
+    },
+    {
+        "countryId": 5,
+        "id": 97,
+        "latitude": "47.4636",
+        "longitude": "9.0479",
+        "name": "Wil"
+    },
+    {
+        "countryId": 5,
+        "id": 98,
+        "latitude": "47.4988",
+        "longitude": "8.7237",
+        "name": "Wintherthur"
+    }
+]

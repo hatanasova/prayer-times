@@ -1,0 +1,327 @@
+[
+    {
+        "cityId": 26,
+        "difference": 2,
+        "id": 1
+    },
+    {
+        "cityId": 27,
+        "difference": -1,
+        "id": 2
+    },
+    {
+        "cityId": 28,
+        "difference": 2,
+        "id": 3
+    },
+    {
+        "cityId": 29,
+        "difference": 5,
+        "id": 4
+    },
+    {
+        "cityId": 31,
+        "difference": -1,
+        "id": 5
+    },
+    {
+        "cityId": 32,
+        "difference": -2,
+        "id": 6
+    },
+    {
+        "cityId": 33,
+        "difference": -4,
+        "id": 7
+    },
+    {
+        "cityId": 34,
+        "difference": -5,
+        "id": 8
+    },
+    {
+        "cityId": 35,
+        "difference": -5,
+        "id": 9
+    },
+    {
+        "cityId": 36,
+        "difference": -6,
+        "id": 10
+    },
+    {
+        "cityId": 37,
+        "difference": 1,
+        "id": 11
+    },
+    {
+        "cityId": 38,
+        "difference": 1,
+        "id": 12
+    },
+    {
+        "cityId": 39,
+        "difference": 2,
+        "id": 13
+    },
+    {
+        "cityId": 40,
+        "difference": 5,
+        "id": 14
+    },
+    {
+        "cityId": 41,
+        "difference": 5,
+        "id": 15
+    },
+    {
+        "cityId": 42,
+        "difference": -3,
+        "id": 16
+    },
+    {
+        "cityId": 45,
+        "difference": 2,
+        "id": 17
+    },
+    {
+        "cityId": 46,
+        "difference": 2,
+        "id": 18
+    },
+    {
+        "cityId": 47,
+        "difference": 1,
+        "id": 19
+    },
+    {
+        "cityId": 48,
+        "difference": 1,
+        "id": 20
+    },
+    {
+        "cityId": 51,
+        "difference": -1,
+        "id": 21
+    },
+    {
+        "cityId": 52,
+        "difference": -2,
+        "id": 22
+    },
+    {
+        "cityId": 53,
+        "difference": -2,
+        "id": 23
+    },
+    {
+        "cityId": 54,
+        "difference": -5,
+        "id": 24
+    },
+    {
+        "cityId": 57,
+        "difference": 2,
+        "id": 25
+    },
+    {
+        "cityId": 58,
+        "difference": -4,
+        "id": 26
+    },
+    {
+        "cityId": 59,
+        "difference": 1,
+        "id": 27
+    },
+    {
+        "cityId": 60,
+        "difference": 4,
+        "id": 28
+    },
+    {
+        "cityId": 61,
+        "difference": 4,
+        "id": 29
+    },
+    {
+        "cityId": 62,
+        "difference": 3,
+        "id": 30
+    },
+    {
+        "cityId": 63,
+        "difference": -4,
+        "id": 31
+    },
+    {
+        "cityId": 64,
+        "difference": -6,
+        "id": 32
+    },
+    {
+        "cityId": 65,
+        "difference": 5,
+        "id": 33
+    },
+    {
+        "cityId": 66,
+        "difference": -1,
+        "id": 34
+    },
+    {
+        "cityId": 67,
+        "difference": -1,
+        "id": 35
+    },
+    {
+        "cityId": 68,
+        "difference": 5,
+        "id": 36
+    },
+    {
+        "cityId": 69,
+        "difference": 9,
+        "id": 37
+    },
+    {
+        "cityId": 70,
+        "difference": -2,
+        "id": 38
+    },
+    {
+        "cityId": 71,
+        "difference": 2,
+        "id": 39
+    },
+    {
+        "cityId": 72,
+        "difference": -3,
+        "id": 40
+    },
+    {
+        "cityId": 73,
+        "difference": 3,
+        "id": 41
+    },
+    {
+        "cityId": 74,
+        "difference": 7,
+        "id": 42
+    },
+    {
+        "cityId": 75,
+        "difference": 1,
+        "id": 43
+    },
+    {
+        "cityId": 76,
+        "difference": 3,
+        "id": 44
+    },
+    {
+        "cityId": 77,
+        "difference": -3,
+        "id": 45
+    },
+    {
+        "cityId": 78,
+        "difference": 1,
+        "id": 46
+    },
+    {
+        "cityId": 79,
+        "difference": 5,
+        "id": 47
+    },
+    {
+        "cityId": 80,
+        "difference": 6,
+        "id": 48
+    },
+    {
+        "cityId": 81,
+        "difference": 9,
+        "id": 49
+    },
+    {
+        "cityId": 82,
+        "difference": 2,
+        "id": 50
+    },
+    {
+        "cityId": 83,
+        "difference": -1,
+        "id": 51
+    },
+    {
+        "cityId": 84,
+        "difference": 1,
+        "id": 52
+    },
+    {
+        "cityId": 85,
+        "difference": -3,
+        "id": 53
+    },
+    {
+        "cityId": 86,
+        "difference": -4,
+        "id": 54
+    },
+    {
+        "cityId": 87,
+        "difference": 1,
+        "id": 55
+    },
+    {
+        "cityId": 89,
+        "difference": -1,
+        "id": 56
+    },
+    {
+        "cityId": 90,
+        "difference": 4,
+        "id": 57
+    },
+    {
+        "cityId": 91,
+        "difference": 4,
+        "id": 58
+    },
+    {
+        "cityId": 92,
+        "difference": -3,
+        "id": 59
+    },
+    {
+        "cityId": 93,
+        "difference": -6,
+        "id": 60
+    },
+    {
+        "cityId": 94,
+        "difference": 3,
+        "id": 61
+    },
+    {
+        "cityId": 95,
+        "difference": 2,
+        "id": 62
+    },
+    {
+        "cityId": 96,
+        "difference": -1,
+        "id": 63
+    },
+    {
+        "cityId": 97,
+        "difference": -2,
+        "id": 64
+    },
+    {
+        "cityId": 98,
+        "difference": -1,
+        "id": 65
+    }
+]
